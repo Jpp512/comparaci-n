@@ -6,7 +6,7 @@ Python 3.12.4
 pip install pandas openpyxl xlsxwriter
 -----                          -----
 
------ descargar código -----
+----- descargar conparacion.py -----
 ----- ruta comoda y sencilla -----
 
 Crea un entorno de prueba: python -m venv mi_entorno
